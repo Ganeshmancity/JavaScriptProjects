@@ -1,5 +1,5 @@
-let num1 = 1;
-let num2 = 2;
+let num1 = 3;
+let num2 = 7;
 let num1El = document.getElementById("num1-el");
 let num2El = document.getElementById("num2-el");
 let sumEL = document.getElementById("sum-el");
